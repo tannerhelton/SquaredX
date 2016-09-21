@@ -12,13 +12,11 @@
     <font>fonts\main_font</font>
     <font>fonts\title_font</font>
   </fonts>
+  <objects name="objects">
+    <object>objects\obj_start</object>
+  </objects>
   <rooms name="rooms">
-    <rooms name="iPad Pro">
-      <room>rooms\ipad_pro_main_menu</room>
-    </rooms>
-    <rooms name="iPad Air">
-      <room>rooms\ipad_air_main_menu</room>
-    </rooms>
+    <room>rooms\main_menu</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
